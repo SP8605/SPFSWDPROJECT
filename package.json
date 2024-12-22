@@ -1,0 +1,22 @@
+{
+  "name": "service-rec-app",
+  "version": "1.0.0",
+  "description": "Service REC APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SP8605/SPFSWDPROJECT.git"
+  },
+  "author": "Sai Pranav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SP8605/SPFSWDPROJECT/issues"
+  },
+  "homepage": "https://github.com/SP8605/SPFSWDPROJECT#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
